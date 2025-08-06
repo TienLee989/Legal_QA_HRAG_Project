@@ -1,7 +1,10 @@
-/embeddings/
-/processed_data/
-/retrieval_models/
-/trained_models/
+*.bin
+*.pt
+*.pth
+*.pkl
+*.safetensors
+*.model
+*.codes
 
 /v3_Legal_QA_HRAG_Project.ipynb
 /Legal_QA_HRAG_Project.ipynb
