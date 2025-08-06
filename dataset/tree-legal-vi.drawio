@@ -1,0 +1,776 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="FboMPbPeWPLjq-2HxsKE">
+    <mxGraphModel dx="4609" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-2" value="Tree-Legal-Vi" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+          <mxGeometry x="-3370" y="20" width="3280" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-5" target="gI6qFvo9dLVvUxTNVatb-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="84.99999999999977" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-5" target="gI6qFvo9dLVvUxTNVatb-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="84.99999999999977" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-6" value="Công pháp" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="372.5" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-7" value="Tư pháp" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1310" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-9" value="Luật tố tụng" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1800" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-5" target="gI6qFvo9dLVvUxTNVatb-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="84.99999999999977" as="sourcePoint" />
+            <mxPoint x="450" y="145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-11" value="Các lĩnh vực chuyên ngành" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2550" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-5" target="gI6qFvo9dLVvUxTNVatb-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="84.99999999999977" as="sourcePoint" />
+            <mxPoint x="590" y="145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1895" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-18" value="Luật Quốc tế công" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="157.5" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-20" value="Luật Ngân hàng" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="260" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597.5" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="370" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="707.5" y="240" as="sourcePoint" />
+            <mxPoint x="247.49999999999977" y="449.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="757.5" y="200" as="sourcePoint" />
+            <mxPoint x="517.5" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="210" />
+              <mxPoint x="517.5" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-24" value="Luật Hình sự" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="600" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="717.5" y="190" as="sourcePoint" />
+            <mxPoint x="627.5" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-26" value="Luật Hành chính" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="715" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.5" y="-60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpZIb259rOhtZO7Wv0w_-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-28" target="cpZIb259rOhtZO7Wv0w_-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-28" value="Luật Hiến pháp" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="372.5" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-7" target="gI6qFvo9dLVvUxTNVatb-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="-50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-30" value="Luật Dân sự" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFCC99;fontColor=#000000;strokeColor=#BD7000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="910" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-7" target="gI6qFvo9dLVvUxTNVatb-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="-50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-32" value="Luật Hôn nhân và gia đình" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFCC99;fontColor=#000000;strokeColor=#BD7000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1175" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-7" target="gI6qFvo9dLVvUxTNVatb-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="-50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-34" value="Luật Thương mại" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFCC99;fontColor=#000000;strokeColor=#BD7000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1340" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-35" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-7" target="gI6qFvo9dLVvUxTNVatb-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="-50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-36" value="Luật Lao động" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FFCC99;fontColor=#000000;strokeColor=#BD7000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1495" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-9" target="gI6qFvo9dLVvUxTNVatb-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-30" as="sourcePoint" />
+            <mxPoint x="30" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-38" value="Tố tụng hình sự" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FF9999;fontColor=#ffffff;strokeColor=#B20000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1680" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-9" target="gI6qFvo9dLVvUxTNVatb-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-30" as="sourcePoint" />
+            <mxPoint x="30" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-40" value="Tú tụng dân sự" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FF9999;fontColor=#ffffff;strokeColor=#B20000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1840" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-9" target="gI6qFvo9dLVvUxTNVatb-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-30" as="sourcePoint" />
+            <mxPoint x="30" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-42" value="Tố tụng hành chính" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#FF9999;fontColor=#ffffff;strokeColor=#B20000;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2000" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-11" target="gI6qFvo9dLVvUxTNVatb-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-20" as="sourcePoint" />
+            <mxPoint x="350" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-44" value="Kinh tế và Tài nguyên" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#A0DFFD;fontColor=#ffffff;strokeColor=#006EAF;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2400" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-54" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-54" value="Đất đai" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2195" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-56" value="Đấu thầu" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2195" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-58" value="Xây dựng" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2300" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2450" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-60" value="Môi trường" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2195" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2450" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-62" value="Năng lượng" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2305" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-64" value="Hàng hải" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2415" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2535" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-66" value="Giao thông vận tải" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2415" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-44" target="gI6qFvo9dLVvUxTNVatb-68" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="80" as="sourcePoint" />
+            <mxPoint x="-50" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2535" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-68" value="Thuế" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2415" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-45" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-11" target="gI6qFvo9dLVvUxTNVatb-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-20" as="sourcePoint" />
+            <mxPoint x="350" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-46" value="Xóa hội và Văn hóa" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#A0DFFD;fontColor=#ffffff;strokeColor=#006EAF;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2575" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-46" target="gI6qFvo9dLVvUxTNVatb-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1725" y="80" as="sourcePoint" />
+            <mxPoint x="-175" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2555" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-70" value="Giáo dục" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2575" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-46" target="gI6qFvo9dLVvUxTNVatb-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1725" y="80" as="sourcePoint" />
+            <mxPoint x="-175" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2555" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-72" value="Y tế" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2575" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-73" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-46" target="gI6qFvo9dLVvUxTNVatb-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1725" y="80" as="sourcePoint" />
+            <mxPoint x="-175" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-74" value="Văn hóa, thể thao và du lịch" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2575" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-46" target="gI6qFvo9dLVvUxTNVatb-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1725" y="80" as="sourcePoint" />
+            <mxPoint x="-175" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-76" value="Bảo hiểm" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2685" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-46" target="gI6qFvo9dLVvUxTNVatb-78" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2625" y="300" as="sourcePoint" />
+            <mxPoint x="2805" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2725" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-78" value="Quốc phòng và an ninh" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2695" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-11" target="gI6qFvo9dLVvUxTNVatb-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-20" as="sourcePoint" />
+            <mxPoint x="350" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-48" value="Khoa học và Công nghệ" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#A0DFFD;fontColor=#ffffff;strokeColor=#006EAF;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2815" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-48" target="gI6qFvo9dLVvUxTNVatb-80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2865" y="355" as="sourcePoint" />
+            <mxPoint x="-55" y="-65" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2815" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-80" value="Khoa học và Công nghệ" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2815" y="485" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-48" target="gI6qFvo9dLVvUxTNVatb-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1845" y="80" as="sourcePoint" />
+            <mxPoint x="-55" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-82" value="Sở hữu trí tuệ" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2825" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-83" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-48" target="gI6qFvo9dLVvUxTNVatb-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1845" y="80" as="sourcePoint" />
+            <mxPoint x="-55" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2935" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-84" value="An ninh mạng" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2855" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-11" target="gI6qFvo9dLVvUxTNVatb-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-20" as="sourcePoint" />
+            <mxPoint x="350" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-50" value="Quản lý và Hành chính" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#A0DFFD;fontColor=#ffffff;strokeColor=#006EAF;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="3085" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-85" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-50" target="gI6qFvo9dLVvUxTNVatb-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1995" y="80" as="sourcePoint" />
+            <mxPoint x="95" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2995" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-86" value="Công chứng, chứng thực" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="3020" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-50" target="gI6qFvo9dLVvUxTNVatb-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1995" y="80" as="sourcePoint" />
+            <mxPoint x="95" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-88" value="Kiếm toán" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="3025" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-89" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-50" target="gI6qFvo9dLVvUxTNVatb-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1995" y="80" as="sourcePoint" />
+            <mxPoint x="95" y="-110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3135" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-90" value="Thống kê" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="3055" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-91" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-50" target="gI6qFvo9dLVvUxTNVatb-92" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1875" y="80" as="sourcePoint" />
+            <mxPoint x="-25" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-92" value="Nông nghiệp và phát triển nông thôn" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="3155" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Tổ chức" treeRoot="1" id="gI6qFvo9dLVvUxTNVatb-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+            <mxGeometry x="1300" y="30" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-22" value="Luật Tài chính công" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="490" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-38" target="gI6qFvo9dLVvUxTNVatb-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="60" as="sourcePoint" />
+            <mxPoint x="-1050" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-94" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Khởi tố&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1625" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-38" target="gI6qFvo9dLVvUxTNVatb-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="60" as="sourcePoint" />
+            <mxPoint x="-1050" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-96" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Xét xử&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1735" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-97" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-40" target="gI6qFvo9dLVvUxTNVatb-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="60" as="sourcePoint" />
+            <mxPoint x="-1010" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-98" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Giải quyết tranh chấp&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1780" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-99" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-40" target="gI6qFvo9dLVvUxTNVatb-100" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="60" as="sourcePoint" />
+            <mxPoint x="-1010" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-100" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Thi hành án&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1900" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-42" target="gI6qFvo9dLVvUxTNVatb-102" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="60" as="sourcePoint" />
+            <mxPoint x="-970" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-102" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Khiếu kiện hành chính&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1940" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-42" target="gI6qFvo9dLVvUxTNVatb-104" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="60" as="sourcePoint" />
+            <mxPoint x="-970" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-104" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Giải quyết khiếu nại&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="2065" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-105" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-30" target="gI6qFvo9dLVvUxTNVatb-106" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-106" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Hợp đồng&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="910" y="470" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-107" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-30" target="gI6qFvo9dLVvUxTNVatb-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-108" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Tài sản&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="865" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-109" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-30" target="gI6qFvo9dLVvUxTNVatb-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-110" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Thừa kế&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="925" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-111" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-32" target="gI6qFvo9dLVvUxTNVatb-112" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85" y="50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-112" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Hôn nhân&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1030" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-32" target="gI6qFvo9dLVvUxTNVatb-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-85" y="50" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-114" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Ly hôn&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1150" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-115" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-32" target="gI6qFvo9dLVvUxTNVatb-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1215" y="300" as="sourcePoint" />
+            <mxPoint x="1200" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-116" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Nuôi con&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1060" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-117" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-34" target="gI6qFvo9dLVvUxTNVatb-118" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="30" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-118" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Hợp đồng thương mại&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1290" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-119" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-34" target="gI6qFvo9dLVvUxTNVatb-120" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="30" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-120" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Kinh doanh&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1290" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-121" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-36" target="gI6qFvo9dLVvUxTNVatb-122" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="30" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1565" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-122" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Hợp đồng lao động&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1505" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-123" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-36" target="gI6qFvo9dLVvUxTNVatb-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="30" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1545" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-124" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Bảo hiểm xã hội&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="1485" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-127" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-28" target="gI6qFvo9dLVvUxTNVatb-128" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-722.5" y="20" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-128" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Cơ cấu nhà nước&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="200" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-129" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-28" target="gI6qFvo9dLVvUxTNVatb-130" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-722.5" y="20" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-130" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Nguyên tắc pháp quyền&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="290" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-133" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-26" target="gI6qFvo9dLVvUxTNVatb-134" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-415" y="-60" as="sourcePoint" />
+            <mxPoint x="-545" y="150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-134" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Quản lý hành chính&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="715" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-135" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-26" target="gI6qFvo9dLVvUxTNVatb-136" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-415" y="-60" as="sourcePoint" />
+            <mxPoint x="-545" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-136" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Khiếu nại, tố cáo&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="715" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-137" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-26" target="gI6qFvo9dLVvUxTNVatb-138" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-415" y="-60" as="sourcePoint" />
+            <mxPoint x="-545" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-138" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Thủ tục hành chính&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="780" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-139" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-24" target="gI6qFvo9dLVvUxTNVatb-140" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="-60" as="sourcePoint" />
+            <mxPoint x="-650" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-140" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Tội phạm&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="550" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-141" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-24" target="gI6qFvo9dLVvUxTNVatb-142" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="-60" as="sourcePoint" />
+            <mxPoint x="-650" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-142" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Hình phạt&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="610" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-143" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-24" target="gI6qFvo9dLVvUxTNVatb-144" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-410" y="-60" as="sourcePoint" />
+            <mxPoint x="-650" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-144" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Thủ tục điều tra&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="570" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-145" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-22" target="gI6qFvo9dLVvUxTNVatb-146" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="-60" as="sourcePoint" />
+            <mxPoint x="-750" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-146" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Ngân sách nhà nước&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="430" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-147" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-22" target="gI6qFvo9dLVvUxTNVatb-148" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.0000000000002" y="440" as="sourcePoint" />
+            <mxPoint x="570" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-148" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Quản lý tài sản công&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="440.0000000000002" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-149" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-22" target="gI6qFvo9dLVvUxTNVatb-150" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="-60" as="sourcePoint" />
+            <mxPoint x="-750" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-150" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Thuế và thu chi&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="440" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-151" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-20" target="gI6qFvo9dLVvUxTNVatb-152" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-615" y="30" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-152" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Ngân hàng thương mại&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="30" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-153" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-20" target="gI6qFvo9dLVvUxTNVatb-154" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-615" y="30" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-154" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Ngân hàng trung ương&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="70" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-155" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-20" target="gI6qFvo9dLVvUxTNVatb-156" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-615" y="30" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-156" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Tín dụng và thanh toán&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="57.5" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-16" value="Luật Quốc tế tư" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#97D077;fontColor=#ffffff;strokeColor=#2D7600;" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="50" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gI6qFvo9dLVvUxTNVatb-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.627;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gI6qFvo9dLVvUxTNVatb-2" source="gI6qFvo9dLVvUxTNVatb-6" target="gI6qFvo9dLVvUxTNVatb-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="937.5" y="10" as="sourcePoint" />
+            <mxPoint x="711.5" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpZIb259rOhtZO7Wv0w_-1" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;Quyền công dân&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="gI6qFvo9dLVvUxTNVatb-2" vertex="1">
+          <mxGeometry x="180" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B358idB6aTaMefA7wwTG-8" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="-530" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="B358idB6aTaMefA7wwTG-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="B358idB6aTaMefA7wwTG-8" source="B358idB6aTaMefA7wwTG-11" target="B358idB6aTaMefA7wwTG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B358idB6aTaMefA7wwTG-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="B358idB6aTaMefA7wwTG-8" source="B358idB6aTaMefA7wwTG-11" target="B358idB6aTaMefA7wwTG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Tổ chức" treeRoot="1" id="B358idB6aTaMefA7wwTG-11">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B358idB6aTaMefA7wwTG-8">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="B358idB6aTaMefA7wwTG-12" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B358idB6aTaMefA7wwTG-8">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B358idB6aTaMefA7wwTG-13" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="B358idB6aTaMefA7wwTG-8">
+          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
